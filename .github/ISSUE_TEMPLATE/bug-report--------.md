@@ -11,28 +11,28 @@ assignees: ''
 簡潔に不具合内容を記述してください
 
 **どのようにしたら事象が発生するか**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+具体的な発生手順を記述してください:
+1. '...' のページへ移動
+2. '....' をクリック
+3. '....' までスクロールする
+4. エラー発生
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**本来期待される動作r**
+正常に動いた場合に期待される動作を簡潔に記述してください
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**スクリーンショット**
+可能ならばスクリーンショット画像をこちらへドラッグ＆ドロップして追加してください
 
-**Desktop (please complete the following information):**
+**PCの場合は、以下の情報も記入してください**
  - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - ブラウザ [e.g. Google chrome, Safari]
+ - バージョン [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
+**スマートフォンの場合は以下の情報も記入してください**
+ - Device: [e.g. iPhone11]
  - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - ブラウザ [e.g. stock browser, safari]
+ - バージョン [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+**追加情報**
+他にも追加で記述できることがあれば記述してください
